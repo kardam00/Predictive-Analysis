@@ -62,7 +62,7 @@ The data is saved in a CSV file: `manufacturing_data.csv`.
 ### 1. Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/manufacturing-predictive-analysis.git
+git clone https://github.com/kardam00/Predictive-Analysis.git
 cd manufacturing-predictive-analysis
 ```
 
